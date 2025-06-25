@@ -1,6 +1,6 @@
 # Guía de Instalación de MISP (Malware Information Sharing Platform)
 
-Este script automatiza la instalación de MISP 2.5 en Ubuntu 24.04 LTS. Fue traducido y mejorado por David Espinoza para cybeersecurity.
+Este script automatiza la instalación de MISP 2.5 en Ubuntu 24.04 LTS. Fue traducido y mejorado  auspiciado por  cybeersecurity.
 
 ## Requisitos Previos
 
