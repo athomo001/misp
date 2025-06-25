@@ -125,4 +125,4 @@ Script original basado en:
 - AutoMISP de @da667: https://github.com/da667/AutoMISP/blob/master/auto-MISP-ubuntu.sh
 - MISP-docker por @ostefano: https://github.com/MISP/MISP-docker
 
-Traducción y mejoras por David Espinoza para cybeersecurity.
+
